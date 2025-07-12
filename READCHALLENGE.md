@@ -1,0 +1,1 @@
+the preview url for official spotify api was deprecated hence i can not directly play preview, therefore i deployed external microservice to fetch by scraping
